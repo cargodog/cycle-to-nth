@@ -1,6 +1,6 @@
 [package]
 name = "cycle-to-nth"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["cargodog <cargodog@protonmail.com>"]
 edition = "2018"
 description = "Cycle an iterator until the nth iteration"
