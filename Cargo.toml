@@ -1,0 +1,10 @@
+[package]
+name = "cycle-to-nth"
+version = "0.1.0"
+authors = ["cargodog <cargodog@protonmail.com>"]
+edition = "2018"
+description = "Cycle an iterator until the nth iteration"
+license-file = "LICENSE"
+repository = "https://github.com/cargodog/cycle-to-nth"
+
+[dependencies]
